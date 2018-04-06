@@ -6,19 +6,19 @@
     <meta name="description" content="">
     <meta name="author" content="Desismacc Company">
 
-    <link rel="icon" href=" <?php echo SERVER_URL; ?>img/icon.png" />
+    <link rel="icon" href="img/icon.png" />
 
 
     <title>Desismacc | Gol</title>
 
    
-    <link href="<?php echo SERVER_URL; ?>css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
 
-    <link href=" <?php echo SERVER_URL; ?>css/cover.css" rel="stylesheet">
+    <link href="css/cover.css" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Exo:500" rel="stylesheet">
-    <link rel="stylesheet" href=" <?php echo SERVER_URL; ?>css/style.css"> 
+    <link rel="stylesheet" href="css/style.css"> 
 
   </head>
 
@@ -32,11 +32,11 @@
 
               <div class="masthead clearfix">
                 <div class="inner">
-                  <h3 class="masthead-brand" title="Company Desismacc"><a style="text-decoration: none;"" href="https://www.desismacc.com/gol">Desismacc | Gol</a></h3>
+                  <h3 class="masthead-brand" title="Company Desismacc"><a style="text-decoration: none;"" href="https://pulache2197.github.io/desismacc">Desismacc | Gol</a></h3>
                   <nav class="nav nav-masthead">
                     <a class="nav-link active" href="#">Inicio</a>
-                    <a class="nav-link" href="https://www.desismacc.com/gol/?view=Nosotros">Nosotros</a>
-                    <a class="nav-link" href="https://www.desismacc.com/gol/?view=Acerca">Acerca de Gol</a>
+                    <a class="nav-link" href="https://pulache2197.github.io/desismacc/nosotros.html">Nosotros</a>
+                    <a class="nav-link" href="https://pulache2197.github.io/desismacc/acerca.html">Acerca de Gol</a>
                   </nav>
                 </div>
               </div>
@@ -82,7 +82,7 @@
 
               <div class="mastfoot">
                 <div class="inner">
-                  <p>Todos los derechos reservados de <a href="https://desismacc.com" style="text-decoration: none;"><b>Desismacc Company</b> </a></p>
+                  <p>Todos los derechos reservados de <a href="#" style="text-decoration: none;"><b>Desismacc Company</b> </a></p>
                 </div>
               </div>
 
@@ -93,9 +93,9 @@
         
   <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
 
-  <script  src=" <?php echo SERVER_URL; ?>js/moment.js"></script>
-  <script  src=" <?php echo SERVER_URL; ?>js/moment-timezone-with-data.js"></script>
-  <script  src=" <?php echo SERVER_URL; ?>js/timer.js"></script>
+  <script  src="js/moment.js"></script>
+  <script  src="js/moment-timezone-with-data.js"></script>
+  <script  src="js/timer.js"></script>
         
   </body>
 </html>
