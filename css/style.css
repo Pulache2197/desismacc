@@ -1,0 +1,116 @@
+*{
+	padding:0;
+	margin:0; 
+}
+
+*
+ *  STYLE 4
+ */
+
+::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(220, 220, 220, 0.3);
+	background-color: #ececec;
+}
+
+::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #ffffff;
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: #969292;
+	border: 2px solid #969292;
+}
+
+body{
+	background-color: #1d1d1d;
+}
+
+header{
+	height: 100px;
+
+}
+.logo h3{
+
+	height: 80px;
+	color: #fff;
+	font-size: 	45px;
+	display: flex;	
+	justify-content: left;
+	align-items: center;
+	
+}
+
+h4{
+	height: 80px;
+	width: 	100px;
+	color: #fff;
+	font-size: 	25px;
+	display: flex;	
+	justify-content: left;
+	align-items: center;
+}
+
+.active{
+
+}
+
+
+.timer {
+    
+    font-size: 50px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: top;
+}
+
+ .text {
+    font-size: 14px;
+    letter-spacing: 3px;
+}
+
+.clock .column {
+    display: inline-block;
+    width: 20%;
+}
+
+.days {
+    display: none;
+}
+
+
+.timer{
+  font-family: 'Patua One', cursive;
+}
+
+.fa-twitter:hover,focus{
+	font-size:5em; color:#5cadf1;
+}
+.fa-facebook-f:hover,focus{
+	font-size:5em; color:#3e9bea;
+}
+.fa-youtube:hover,focus{
+	font-size:5em; color:#ef2d2d;
+}
+.app h5{
+	font-family: 'Jura', sans-serif;
+	font-size: 21.5px;
+}
+.row p{
+  font-family: 'Exo', sans-serif;
+}
+
+
+/*?php include('redirec/Mobile_Detect.php');
+$detect = new Mobile_Detect();
+if
+($detect->isMobile() || $detect->isiOS() || $detect->isAndroidOS() || $detect->isTablet()) {
+header("Location: https://m.desismacc.com");
+}else{
+    //header("Location: https://www.desismacc.com/gol");
+}
+?*/
+
